@@ -1,0 +1,8 @@
+.contnent {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.main {
+  flex:3 60rem;
+}

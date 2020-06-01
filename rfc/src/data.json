@@ -1,0 +1,56 @@
+[
+
+{
+    "category":"Drill", "id":1, 
+    "productname": "PorterCable", 
+    "description": "Icey made of mango, orange juice, chamoy and chile lime salt" , 
+    "price": "7.00", 
+    "image":"/images/cheese.jpg"
+
+},
+{
+    "category":"Drill", "id":1, 
+    "productname": "milwauke", 
+    "description": "Icey made of mango, orange juice, chamoy and chile lime salt" , 
+    "price": "7.00", 
+    "image":"loadup"
+
+},
+{
+    "category":"Hammer", "id":1, 
+    "productname": "Mangonada", 
+    "description": "Icey made of mango, orange juice, chamoy and chile lime salt" , 
+    "price": "7.00", 
+    "image":"loadup"
+
+},
+
+
+{
+    "category":"Wrench", "id":1, 
+    "productname": "Mangonada", 
+    "description": "Icey made of mango, orange juice, chamoy and chile lime salt" , 
+    "price": "7.00", 
+    "image":"loadup"
+
+},
+
+{
+    "category":"Wrench", "id":1, 
+    "productname": "Mangonada", 
+    "description": "Icey made of mango, orange juice, chamoy and chile lime salt" , 
+    "price": "7.00", 
+    "image":"loadup"
+
+},
+
+{
+    "category":"Wrench", "id":1, 
+    "productname": "Mangonada", 
+    "description": "Icey made of mango, orange juice, chamoy and chile lime salt" , 
+    "price": "7.00", 
+    "image":"loadup"
+
+}
+
+]
